@@ -1,4 +1,4 @@
-#
+#simulate switch-case function
 score = int(input('Please enter the score：'))
 level = score // 10
 {
